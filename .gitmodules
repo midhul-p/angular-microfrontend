@@ -1,0 +1,9 @@
+[submodule "micro-frontend-2"]
+	path = micro-frontend-2
+	url = https://github.com/midhul-p/microfrontend-remote-angular-2.git
+[submodule "micro-frontend-1"]
+	path = micro-frontend-1
+	url = https://github.com/midhul-p/microfrontend-remote-angular-1.git
+[submodule "host-app"]
+	path = host-app
+	url = https://github.com/midhul-p/microfrontend-angular-shell-app.git
